@@ -1,5 +1,5 @@
 import React from 'react';
-import s from './Feedback.module.css';
+import s from '../Feedback/Feedback.module.css';
 
 const Notification = () => (
   <>
